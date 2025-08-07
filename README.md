@@ -21,5 +21,18 @@ AdventureWorks-Project
 │   └── PivotAnalysis.xlsx
 ├── 📃 README.md
 
+# key insights
+ Key Insights
+
+🏆 Top 10 products account for over 40% of total revenue
+
+🌍 Sales are highest in the North American region
+
+🛍️ Customers aged 30–40 show the highest purchase frequency
+
+🛑 Some high-cost products have very low sales — potential for marketing boost
+
+📆 Clear seasonal trends indicate increased sales in Q4
+
 # Dashboard created
 Customer Overview,Sales performance, Product Analysis, Profit & analysis
